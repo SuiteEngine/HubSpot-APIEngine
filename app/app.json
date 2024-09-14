@@ -1,0 +1,39 @@
+{
+  "id": "a0b7a273-97e4-476e-8224-7f493863ead4",
+  "name": "HubSpot Integration",
+  "publisher": "Suite Engine, LLC",
+  "version": "1.0.0.0",
+  "brief": "Sample integration with HubSpot",
+  "description": "This is a sample integration with HubSpot. It demonstrates how to connect to HubSpot using 'API Engine Library'",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies":  [
+    {
+        "id":  "4e25636c-7df0-4b8e-9967-ae9bf1a561f2",
+        "name":  "Suite Engine API Engine Library",
+        "publisher":  "Suite Engine, LLC",
+        "version":  "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
